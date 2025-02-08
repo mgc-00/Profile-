@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello 👋, welcome to MGC's gitHub profile! ^^</h1>
+<h1 align="center">Hello 👋, welcome to MGC's GitHub profile! ^^</h1>
 <h3 align="center">I aim to utilize my background in education, programming, and AI to create creative solutions that help businesses use AI efficiently and benefit the world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgc-00&label=Profile%20views&color=0e75b6&style=flat" alt="mgc-00" /> </p>
